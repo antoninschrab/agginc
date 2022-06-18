@@ -1,6 +1,6 @@
 # Code for AggInc: Computationally Efficient Aggregated Kernel Tests using Incomplete U-statistics
 
-This anonymised GitHub repository contains the code for our paper Computationally Efficient Aggregated Kernel Tests using Incomplete U-statistics.
+This [anonymised GitHub repository](https://anonymous.4open.science/r/agginc-10EF/README.md.) contains the code for our paper Computationally Efficient Aggregated Kernel Tests using Incomplete U-statistics.
 The three tests we have proposed 
 
 - MMDAggInc
