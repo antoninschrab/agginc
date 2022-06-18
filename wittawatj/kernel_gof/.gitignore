@@ -1,0 +1,10 @@
+KSD_goodness_of_fit/
+*.bkp
+*.swp
+.dropbox.attr
+*.pyc
+*.npz
+*.bak
+*.log
+*~
+*.egg-info
