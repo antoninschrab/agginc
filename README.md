@@ -212,7 +212,7 @@ Inria London
 ```
 @inproceedings{schrab2022efficient,
   author    = {Antonin Schrab and Ilmun Kim and Benjamin Guedj and Arthur Gretton},
-  title     = {Efficient Aggregated Kernel Tests using Incomplete \$U\$-statistics},
+  title     = {Efficient Aggregated Kernel Tests using Incomplete {$U$}-statistics},
   booktitle = {Advances in Neural Information Processing Systems 35: Annual Conference
                on Neural Information Processing Systems 2022, NeurIPS 2022},
   editor    = {Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
