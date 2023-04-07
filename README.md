@@ -67,6 +67,7 @@ For details, check out the [demo.ipynb](https://github.com/antoninschrab/agginc-
 # import modules
 >>> import numpy as np 
 >>> import jax.numpy as jnp
+>>> from jax import random
 >>> from agginc import agginc, human_readable_dict # jax version
 >>> # from agginc.np import agginc
 
@@ -113,6 +114,7 @@ For details, check out the [demo.ipynb](https://github.com/antoninschrab/agginc-
 # import modules
 >>> import numpy as np 
 >>> import jax.numpy as jnp
+>>> from jax import random
 >>> from agginc import agginc, human_readable_dict # jax version
 >>> # from agginc.np import agginc
 
@@ -160,6 +162,7 @@ For details, check out the [demo.ipynb](https://github.com/antoninschrab/agginc-
 # import modules
 >>> import numpy as np 
 >>> import jax.numpy as jnp
+>>> from jax import random
 >>> from agginc import agginc, human_readable_dict # jax version
 >>> # from agginc.np import agginc
 
