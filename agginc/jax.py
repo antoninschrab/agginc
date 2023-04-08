@@ -46,6 +46,10 @@ def agginc(
     return 0 if the test fails to reject the null (i.e. same distribution, independent, fits the data), 
     or return 1 if the test rejects the null (i.e. different distribution, dependent, does not fit the data).
     
+    Fixing the data shapes (sample size and dimension), the first time the function is
+    run it is getting compiled. After that, the function can fastly be evaluated on 
+    any data of the same shape (same sample size and dimension).
+    
     Parameters
     ----------
     agginc: str
