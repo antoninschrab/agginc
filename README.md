@@ -1,4 +1,4 @@
-# AggInc package
+# AggInc
 
 This package implements MMDAggInc, HSICAggInc and KSDAggInc tests for two-sample, independence and goodness-of-fit testing, as proposed in our paper [Efficient Aggregated Kernel Tests using Incomplete U-statistics](https://arxiv.org/pdf/2206.09194.pdf).
 The experiments of the paper can be reproduced using the [agginc-paper](https://github.com/antoninschrab/agginc-paper/) repository.
@@ -226,3 +226,11 @@ Inria London
 ## License
 
 MIT License (see [LICENSE.md](LICENSE.md)).
+
+## Related tests
+
+- [mmdagg](https://github.com/antoninschrab/mmdagg/): MMD Aggregated MMDAgg test
+- [ksdagg](https://github.com/antoninschrab/ksdagg/): KSD Aggregated KSDAgg test
+- [mmdfuse](https://github.com/antoninschrab/mmdfuse/): MMD-Fuse test
+- [dpkernel](https://github.com/antoninschrab/dpkernel/): Differentially private dpMMD dpHSIC tests
+- [dckernel](https://github.com/antoninschrab/dpkernel/): Differentially private dpMMD dpHSIC tests
